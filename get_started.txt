@@ -1,0 +1,17 @@
+Every level is locked by a password.  You need to solve each level's puzzle to get the password to move on to the next level.
+
+The commands you will need to get started with are:
+
+cat 
+unzip 
+man
+
+The 'man' command will give you usage of every linux command you will use.
+
+Try it now.  Type -  man cat - to learn how to use the cat command.  
+Do the same for unzip to learn how to unlock the next level.
+
+Also don't be afraid to search the internet for help as well as it's a great resource even for experienced developers.
+
+The first level is easy.  Here is the password: 16269
+

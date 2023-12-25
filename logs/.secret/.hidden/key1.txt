@@ -1,8 +1,0 @@
-Congratulations, detective!
-
-You've successfully navigated the hidden directories. 
-
-The key to access Level 2 is compressed.
-
-Use this key to proceed to the next challenge. Remember, the secrets of the Linux system are waiting to be uncovered. Good luck!
-
