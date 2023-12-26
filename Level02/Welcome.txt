@@ -1,0 +1,12 @@
+Good job making it to Level 2.  With your skills we should get to the bottom of the anomalies affecting
+the Kernel in no time.
+
+the commands you will need in this level might be:
+
+cat
+ls
+chmod
+
+It will also be useful to understand how to run a script from the command line.
+
+Good luck!

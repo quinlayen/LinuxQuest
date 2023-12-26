@@ -2,9 +2,9 @@ Every level is locked by a password.  You need to solve each level's puzzle to g
 
 The commands you will need to get started with are:
 
-cat 
-unzip 
-man
+- cat 
+- unzip 
+- man
 
 The 'man' command will give you usage of every linux command you will use.
 

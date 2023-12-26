@@ -1,4 +1,3 @@
-
 # Cyber Detective: A Linux Quest
 
 Dear Cyber Detective,
@@ -23,4 +22,4 @@ Prepare to embark on your quest. Each level is a different sector of Linuxopolis
 
 Good luck, and welcome to the adventure of a lifetime in Cyber Detective: The Linux Quest.
 
-## Now read the get_started.txt to begin
+## Now read the *get_started.txt* to begin
